@@ -26,7 +26,7 @@ The solution is tailored to address real-world challenges such as dynamic table 
 
 ## Architecture Diagram
 
-Include the uploaded pipeline block diagram here for visual context.
+
 
 
 Pipeline Workflow
