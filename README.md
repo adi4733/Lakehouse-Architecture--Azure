@@ -1,6 +1,5 @@
-# Lakehouse-Architecture--Azure
 
-### Comprehensive Data Pipeline and Reporting Solution Using Lakehouse Architecture
+# Data Pipeline and Reporting Solution Using Lakehouse Architecture in Azure
 ## Project Overview
 
 This project demonstrates the implementation of a secure, scalable, and efficient data pipeline based on the Lakehouse Architecture. It integrates multiple Azure services to extract, transform, and load (ETL) data, providing a structured approach to data governance and advanced visualization using Microsoft Power BI.
